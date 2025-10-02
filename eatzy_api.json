@@ -1,0 +1,122 @@
+[
+  {
+    "company": "McDonald’s",
+    "item": "Hamburger",
+    "price_usd": 2.79,
+    "description": "Classic beef patty with pickles, onions, ketchup and mustard on a soft bun."
+  },
+  {
+    "company": "McDonald’s",
+    "item": "Cheeseburger",
+    "price_usd": 3.29,
+    "description": "A hamburger upgraded with a slice of American cheese—simple and satisfying."
+  },
+  {
+    "company": "McDonald’s",
+    "item": "Quarter Pounder with Cheese",
+    "price_usd": 6.49,
+    "description": "Quarter‑pound fresh‑beef patty with two slices of cheese, onions and pickles."
+  },
+  {
+    "company": "McDonald’s",
+    "item": "Big Mac",
+    "price_usd": 6.99,
+    "description": "Two beef patties, signature sauce, lettuce, cheese, pickles and onions on a sesame bun."
+  },
+  {
+    "company": "McDonald’s",
+    "item": "McChicken",
+    "price_usd": 3.39,
+    "description": "Crispy chicken patty with shredded lettuce and mayo on a toasted bun."
+  },
+  {
+    "company": "Burger King",
+    "item": "Whopper",
+    "price_usd": 8.99,
+    "description": "Flame‑grilled beef patty, tomatoes, lettuce, mayo, ketchup, pickles and onions on a sesame seed bun."
+  },
+  {
+    "company": "Burger King",
+    "item": "Original Chicken Sandwich",
+    "price_usd": 8.69,
+    "description": "Long sesame bun with lightly breaded chicken fillet, lettuce and mayo."
+  },
+  {
+    "company": "KFC",
+    "item": "Chicken Sandwich",
+    "price_usd": 5.29,
+    "description": "Extra‑crispy chicken breast filet with pickles and mayo on a brioche‑style bun."
+  },
+  {
+    "company": "Subway",
+    "item": "Footlong (Meal of the Day)",
+    "price_usd": 9.99,
+    "description": "Rotating daily favorite footlong sub, includes drink and chips or cookies."
+  },
+  {
+    "company": "Subway",
+    "item": "Turkey Sub (Footlong)",
+    "price_usd": 9.59,
+    "description": "Oven‑roasted turkey on freshly baked bread with your choice of toppings."
+  },
+  {
+    "company": "Subway",
+    "item": "Six‑inch (Meal of the Day)",
+    "price_usd": 6.99,
+    "description": "Rotating six‑inch sub with drink and chips or cookies."
+  },
+  {
+    "company": "Starbucks",
+    "item": "Caffè Americano (Tall)",
+    "price_usd": 4.84,
+    "description": "Rich, espresso‑forward Americano with hot water for a bold, smooth cup."
+  },
+  {
+    "company": "Starbucks",
+    "item": "Iced Caffè Latte (Tall)",
+    "price_usd": 5.72,
+    "description": "Chilled espresso with milk over ice—balanced and refreshing."
+  },
+  {
+    "company": "Taco Bell",
+    "item": "Crunchy Taco",
+    "price_usd": 2.19,
+    "description": "Crispy corn shell with seasoned beef, shredded lettuce and cheddar cheese."
+  },
+  {
+    "company": "Taco Bell",
+    "item": "Crunchy Taco Supreme",
+    "price_usd": 3.24,
+    "description": "Crunchy taco upgraded with tomatoes and cool sour cream."
+  },
+  {
+    "company": "Domino’s",
+    "item": "Medium 2‑Topping Pizza (Promo)",
+    "price_usd": 9.99,
+    "description": "Any pizza, any toppings promotional price—location restrictions may apply."
+  },
+  {
+    "company": "Pizza Hut",
+    "item": "Personal Pan Pepperoni",
+    "price_usd": 6.89,
+    "description": "6‑inch classic pan pizza with crispy‑fluffy crust and pepperoni."
+  },
+  {
+    "company": "Pizza Hut",
+    "item": "My Hut Box (Personal Pan + Side)",
+    "price_usd": 9.75,
+    "description": "Bundle with a Personal Pan Pizza and a side—built for one."
+  },
+  {
+    "company": "Chick‑fil‑A",
+    "item": "Chicken Sandwich",
+    "price_usd": 5.49,
+    "description": "Pressure‑cooked chicken breast with pickles on a buttered, toasted bun."
+  },
+  {
+    "company": "Wendy’s",
+    "item": "Jr. Bacon Cheeseburger",
+    "price_usd": 2.99,
+    "description": "Junior beef patty with crispy bacon, American cheese, lettuce, tomato and mayo."
+  }
+]
